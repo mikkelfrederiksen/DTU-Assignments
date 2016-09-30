@@ -2,4 +2,6 @@
 
 Nikoeholm er med
 
-Tuben aka Duben is here
+Name: Tobias
+Student ID: s155140
+Github: Tuben96
