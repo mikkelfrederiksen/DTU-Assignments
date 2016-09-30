@@ -1,3 +1,3 @@
 # DTU-Assignments
 
-Nikolaj er in
+Nikoeholm er med
