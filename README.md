@@ -1,6 +1,8 @@
 # DTU-Assignments
 
-Nikoeholm er med
+Name: Nikolaj
+Student ID: s165151
+Github: Nikoeholm
 
 Name: Tobias
 Student ID: s155140
