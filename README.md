@@ -11,3 +11,7 @@ Github: Tuben96
 Name: Janus
 Student ID: s165152
 Github: JanusAA
+
+Name: Mikkel
+Student ID: s165156
+Github: Mikkelfrederiksen
